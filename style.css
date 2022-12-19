@@ -1,0 +1,29 @@
+body{background-color: black;}
+h1{margin: 0%;
+background-image: url(/HTML/EJERCICIOS/EJERCICIO5/Captura.JPG);
+height: 180px;
+color: white;
+text-align: center;
+padding-top: 70px;
+padding-bottom: 20px;
+font-size: 60px;}
+ol li, ul li{font-size: 20px;}
+.gen{background-color: rgb(202, 162, 126);
+margin: 0 250px;
+height: 657px;}
+.li1, .esp, .li2{display:inline-block;}
+.li1, .li2{color:rgb(237, 233, 215);}
+.esp{width: 2px;
+height: 200px;
+background-color: white;
+margin-top: 30px;
+margin-bottom: 0px;}
+.ta{padding: 0 150px;
+height: 300px;}
+.li1{margin-right: 100px;}
+.li2{margin-left: 40px;}
+.l2{margin: 0;
+text-align:center;
+font-style: italic;}
+.l1{text-align:right;
+font-style: italic;}
